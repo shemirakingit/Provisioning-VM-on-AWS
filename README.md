@@ -1,6 +1,5 @@
-# Provisioning-a-Virtual-Machine-on-AWS
-Provisioned a virtual machine using Amazon Web Services (AWS) via Amazon EC2. Configured an EC2 instance by selecting an AMI, defining resources, and enabling secure SSH access. Demonstrated foundational cloud skills including deployment and system configuration.
-
+# Virtual-Machine-on-AWS
+This lab demonstrates how to provision and configure a virtual machine using Amazon Web Services (AWS) through Amazon EC2. It covers launching an instance, configuring access, and connecting remotely.
 ## 📎 Project Demo  
 
 [![Watch the demo](https://cdn.loom.com/sessions/thumbnails/99d6412d59224805879e71d128c934a7.jpg)](https://www.loom.com/share/99d6412d59224805879e71d128c934a7)
