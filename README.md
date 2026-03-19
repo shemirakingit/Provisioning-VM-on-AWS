@@ -5,3 +5,20 @@ This lab demonstrates how to provision and configure a virtual machine using Ama
 [![Watch the demo](https://cdn.loom.com/sessions/thumbnails/99d6412d59224805879e71d128c934a7.jpg)](https://www.loom.com/share/99d6412d59224805879e71d128c934a7)
 
 This video demonstrates the full process of provisioning and connecting to an AWS EC2 Windows instance using RDP.
+
+🛠️ Technologies Used
+
+AWS Management Console
+
+Amazon EC2
+
+RDP (Remote Desktop Protocol)
+
+Windows Server (AMI-based instance)
+
+🚀 Steps
+🔹 Step 1: Log into AWS
+
+Access the AWS Management Console
+
+Navigate to EC2 Dashboard
