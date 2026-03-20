@@ -40,7 +40,8 @@ This video demonstrates the full process of provisioning and connecting to an AW
 
   Download .pem file (used to decrypt the administrator password)
 
-📸 Add screenshot here
+![LAB1SHOT4](https://github.com/user-attachments/assets/defbab49-2803-458b-b582-986b40e23551)
+
 
 🔹 Step 4: Configure Network Settings
 
@@ -48,7 +49,8 @@ This video demonstrates the full process of provisioning and connecting to an AW
 
   Review and launch instance
 
-📸 Add screenshot here
+![LAB1SHOT5](https://github.com/user-attachments/assets/b60baf91-67c1-4c65-b09c-f0550923a753)
+
 
 🔹 Step 5: Connect to Instance via RDP
 
@@ -60,7 +62,8 @@ This video demonstrates the full process of provisioning and connecting to an AW
 
   Log in with the administrator credentials
 
-📸 Add screenshot here
+![LAB1SHOT6](https://github.com/user-attachments/assets/7f1eb70a-d258-4937-83d2-0d6423fa2314)
+
 
 🧪 Validation
 
