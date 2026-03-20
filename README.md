@@ -31,7 +31,8 @@ This video demonstrates the full process of provisioning and connecting to an AW
 
   Select instance type (e.g., t2.micro)
 
-  LAB1SHOT3.jpeg
+  ![LAB1SHOT3](https://github.com/user-attachments/assets/8b146b72-abb5-4b85-9d8b-ea26bad34451)
+
 
 🔹 Step 3: Configure Key Pair
 
